@@ -21,15 +21,15 @@ The model view and there interconnection
 ![image](https://github.com/user-attachments/assets/0dddac7d-89b1-4fa0-8cc5-14d0151a1b5b)
 
 <h3>**Analysis and Report**</h3>
-<h6>Home
+<h6>Home</h6>
 ![image](https://github.com/user-attachments/assets/23165ea0-c8e0-4989-be21-888a9a11d941)
-Pets
+<h6>Pets</h6>
 ![image](https://github.com/user-attachments/assets/13e2e351-ad37-4b3c-907e-64327a97c810)
 Families
 ![image](https://github.com/user-attachments/assets/770fb3b7-c68c-4947-9331-20dbe5f80bf0)
 Families Drilldown
 ![image](https://github.com/user-attachments/assets/f317ed26-9216-4900-a73d-057725cb3a58)
-</h6>
+
 
 
 
