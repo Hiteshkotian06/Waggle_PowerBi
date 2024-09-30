@@ -18,10 +18,18 @@ Installation
 PowerBi Python for script
 
 Visuals
+The model view and there interconnection 
+![image](https://github.com/user-attachments/assets/0dddac7d-89b1-4fa0-8cc5-14d0151a1b5b)
+****Analysis and Report
+Home
 ![image](https://github.com/user-attachments/assets/23165ea0-c8e0-4989-be21-888a9a11d941)
-![image](https://github.com/user-attachments/assets/a0512218-f468-4642-b36b-cd3236fc3a78)
-![image](https://github.com/user-attachments/assets/89046a0c-a668-49b4-9777-4f721c7d92b9)
-![image](https://github.com/user-attachments/assets/eabcf2bd-ab66-41fc-a1f6-b5aceb443698)
+Pets
+![image](https://github.com/user-attachments/assets/13e2e351-ad37-4b3c-907e-64327a97c810)
+Families
+![image](https://github.com/user-attachments/assets/770fb3b7-c68c-4947-9331-20dbe5f80bf0)
+Families Drilldown
+![image](https://github.com/user-attachments/assets/f317ed26-9216-4900-a73d-057725cb3a58)
+
 
 
 
