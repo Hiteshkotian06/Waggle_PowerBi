@@ -20,7 +20,7 @@ Visuals <br>
 The model view and there interconnection 
 ![image](https://github.com/user-attachments/assets/0dddac7d-89b1-4fa0-8cc5-14d0151a1b5b)
 
-<h3>**Analysis and Report**</h3>
+Analysis and Report
 Home
 ![image](https://github.com/user-attachments/assets/23165ea0-c8e0-4989-be21-888a9a11d941)
 Pets
